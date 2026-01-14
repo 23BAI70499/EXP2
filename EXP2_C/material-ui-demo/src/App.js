@@ -14,7 +14,6 @@ import {
 function App() {
   return (
     <>
-      {/* Top App Bar */}
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6">
@@ -22,8 +21,6 @@ function App() {
           </Typography>
         </Toolbar>
       </AppBar>
-
-      {/* Centered Content */}
       <Box
         display="flex"
         justifyContent="center"
